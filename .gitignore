@@ -1,0 +1,13 @@
+*.class
+*.log
+.idea
+*.iml
+*.jar
+*.war
+*.ear
+.project
+.settings
+.classpath
+target
+node_modules
+themes
